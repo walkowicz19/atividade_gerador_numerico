@@ -31,9 +31,9 @@ Soma acumulativa com divisão do arquivo em fatias por offset de bytes. Cada pro
 
 | Item                        | Descrição                                   |
 | --------------------------- | ------------------------------------------- |
-| Processador                 | —                                           |
-| Número de núcleos           | —                                           |
-| Memória RAM                 | —                                           |
+| Processador                 | Intel Core i7-12700 12ª Geração — 2,10 GHz                                           |
+| Número de núcleos           | 12 núcleos físicos (8P + 4E) / 20 threads                                           |
+| Memória RAM                 | 16,0 GB                                           |
 | Sistema Operacional         | Windows                                     |
 | Linguagem utilizada         | Python 3                                    |
 | Biblioteca de paralelização | multiprocessing (módulo nativo do Python)   |
