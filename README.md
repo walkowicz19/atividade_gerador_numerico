@@ -1,10 +1,10 @@
 # Relatório da Atividade 2 — Soma de Valores em Paralelo
 
 **Disciplina:** Computação Paralela e Distribuída
-**Aluno(s):** Samuel de Souza
-**Turma:** —
-**Professor:** —
-**Data:** 2025
+**Aluno(s):** Matheus Nery Walkowicz
+**Turma:** Noturno
+**Professor:** Rafael Marconi Ramos
+**Data:** 2026
 
 ---
 
